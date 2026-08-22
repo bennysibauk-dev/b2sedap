@@ -1,9 +1,3 @@
---[[ SERVER CODE DUMPED ]]
---[[ Date: 2026-08-22 17:39:41 ]]
---[[ File: all_server_code.lua ]]
---[[ Source: Server ]]
---[[ ============================================ ]]
-
 local BRPlayerCharacterBase = {
   ServerRPC = {},
   ClientRPC = {},
